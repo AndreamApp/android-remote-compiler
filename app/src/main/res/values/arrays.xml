@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_oj_list">
+
+        <item>ACdream</item>
+        <item>Aizu</item>
+        <item>AtCoder</item>
+        <item>CodeChef</item>
+        <item>CodeForces</item>
+        <item>CSU</item>
+        <item>EIJudge</item>
+        <item>FZU</item>
+        <item>Gym</item>
+        <item>HackerRank</item>
+        <item>HDU</item>
+        <item>HihoCoder</item>
+        <item>HIT</item>
+        <item>HRBUST</item>
+        <item>HUST</item>
+        <item>HYSBZ</item>
+        <item>Kattis</item>
+        <item>LightOJ</item>
+        <item>NBUT</item>
+        <item>OpenJ_Bailian</item>
+        <item>OpenJ_POJ</item>
+        <item>POJ</item>
+        <item>SCU</item>
+        <item>SGU</item>
+        <item>SPOJ</item>
+        <item>UESTC</item>
+        <item>UESTC_old</item>
+        <item>URAL</item>
+        <!--// unsupport UVA because it has only pdf description which we cannot directly parse now.-->
+        <!--//<item>UVA</item>-->
+        <!--//<item>UVALive</item>-->
+        <item>ZOJ</item>
+        <item>Z_trening</item>
+    </string-array>
+</resources>

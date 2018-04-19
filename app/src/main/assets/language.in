@@ -1,0 +1,29 @@
+1
+C c c
+6 36
+#include <stdio.h>
+
+int main(){
+
+    return 0;
+}
+44
+char 	short 	int 	unsigned
+long 	float 	double 	struct
+union 	void 	enum 	signed
+const 	volatile 	typedef 	auto
+register 	static 	extern 	break
+case 	continue 	default 	do
+else 	for 	goto 	if
+return 	switch 	while 	sizeof
+_Bool 	_Complex 	_Imaginary 	inline 	restrict
+_Alignas 	_Alignof 	_Atomic 	_Generic 	_Noreturn
+_Static_assert 	_Thread_local
+FFCB7832
+6
+\d+ FF6896BA
+#.* FFBAB429
+".*" FF6A8659
+'.' FF6A8659
+//.* FF66747B
+/\*(.|\n)*?\*/ FF66747B
